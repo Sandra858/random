@@ -7,7 +7,8 @@ const messages = [
     "You don't want my pretty face behind bars 😭 do you?",
     "But only *if* you're nice to me first... 😘",
     "Byeeeeeeeeee 💜💜",
-    "Your Dick between my hands.......😁😩"
+    "Your Dick between my hands.......😁😩",
+    "Chichi cares 😩💜✨"
   ];
   
   let currentIndex = 0;
